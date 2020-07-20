@@ -1,5 +1,3 @@
-const _ = require("lodash");
+const food = require("./food");
 
-const str = { "kebab": "roll", "burger": "pizza", "lasagna": "pasta" };
-
-console.log(_.invert(str));
+console.log(food);
