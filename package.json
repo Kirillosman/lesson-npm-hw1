@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/Kirillosman/lesson-npm-hw1#readme",
   "dependencies": {
-    "lodash": "^4.17.19"
+    "lodash": "^4.18.1"
   }
 }
